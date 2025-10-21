@@ -4,4 +4,4 @@ This directory contains Terraform modules for managing AWS S3 resources. Each mo
 - **s3-bucket**: This module creates and configures an S3 bucket with options for versioning, logging, and encryption.
 - **s3-bucket-policy**: This module allows you to define and attach bucket policies
 
-    
+just random text    
