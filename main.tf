@@ -8,6 +8,9 @@
 #   }
 # }
 
+provider "aws" {
+  region = "eu-west-1"
+}
 
 locals {
   create_vpc = var.vpc_id == ""
